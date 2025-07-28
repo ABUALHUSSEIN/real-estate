@@ -3,7 +3,7 @@
 This Power BI project explores rental property data across 24 cities in Saudi Arabia, delivering insightful analysis into the real estate rental market. The interactive dashboard empowers real estate analysts, investors, and policymakers to identify trends, evaluate property performance, and make data-informed decisions.
 ## 📸 Dashboard Preview
 
-![Real Estate Dashboard](./assets/dashboard_preview.png)
+![Real Estate Dashboard]([./assets/dashboard_preview.png](https://raw.githubusercontent.com/ABUALHUSSEIN/real-estate/refs/heads/main/Real-estate.png))
 
 ## 📌 Key Insights
 The dashboard provides visual and analytical answers to questions such as:
@@ -39,6 +39,7 @@ A donut chart visualizing property categories, showing the dominance of specific
 
 ## 🧠 Tools & Technologies
 Power BI: Data modeling, DAX measures, and dashboard creation
+
 DAX: Used to calculate KPIs like average price, ratings, and filter context across visuals
 
 
